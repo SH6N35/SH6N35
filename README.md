@@ -1,7 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Shane!</h1>
+
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b> Active Directory HomeLab
+
+<h2>📋 Certifications:</h2>
+
+- <b> Comptia A+ (in progress)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="ShaneGoodman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/shane-goodman-b97372290/
 
 <!--
-**SH6N35/SH6N35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
