@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b> Active Directory HomeLab (https://github.com/SH6N35/ActiveDirectoryLab/blob/main/README.md)
+- <b> [Active Directory HomeLab](https://github.com/SH6N35/ActiveDirectoryLab)
 
 <h2>📋 Certifications:</h2>
 
