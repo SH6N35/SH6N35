@@ -5,6 +5,7 @@
 - <b> [Active Directory HomeLab](https://github.com/SH6N35/ActiveDirectoryLab)
 - <b> [Group Policy Managment Lab](https://github.com/SH6N35/Creating-and-setting-up-GPo)
 - <b> [Testing GPO](https://github.com/SH6N35/Creating-and-setting-up-GPo)
+- <b> [Mapping a Drive](https://github.com/SH6N35/Creating-and-setting-up-GPo)
 
 <h2>📋 Certifications:</h2>
 
