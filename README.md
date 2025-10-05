@@ -1,6 +1,6 @@
 <h1>Hi, I'm Shane!</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Active Directory Lab:</h2>
 
 - <b> [Active Directory HomeLab](https://github.com/SH6N35/ActiveDirectoryLab)
 - <b> [Group Policy Managment Lab](https://github.com/SH6N35/Creating-and-setting-up-GPo)
