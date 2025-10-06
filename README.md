@@ -6,7 +6,7 @@
 - <b> [Group Policy Managment Lab](https://github.com/SH6N35/Creating-and-setting-up-GPo)
 - <b> [Testing GPO](https://github.com/SH6N35/Testing-GPO)
 - <b> [Mapping a Drive](https://github.com/SH6N35/fileServices-Mapping)
-- <b> [Mapping a Drive](https://github.com/SH6N35/fileServices-Mapping)
+- <b> [Mapping a drive using GPOs](https://github.com/SH6N35/GPO-Configuration)
 
 <h2>📋 Certifications:</h2>
 
