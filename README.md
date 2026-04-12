@@ -10,6 +10,8 @@
 
 <h2>🖥 Homelab:</h2>
 
+- <b> [Infrastructure](https://github.com/SH6N35/infrastructure-manifest)
+  
 <h2>📋 Certifications:</h2>
 
 - <b> Comptia Net+ expected june
