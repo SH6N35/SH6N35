@@ -13,6 +13,8 @@
 - <b> [Infrastructure](https://github.com/SH6N35/infrastructure-manifest)
 
 - <b> [Jellyfin](https://github.com/SH6N35/Arrstack)
+
+- <b> [Self-hosting Minecraft](https://github.com/SH6N35/Minecraft-server/tree/main)
   
 <h2>📋 Certifications:</h2>
 
