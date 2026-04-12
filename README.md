@@ -8,6 +8,8 @@
 - <b> [Mapping a Drive](https://github.com/SH6N35/fileServices-Mapping)
 - <b> [Mapping a drive using GPOs](https://github.com/SH6N35/GPO-Configuration)
 
+<h2>📽️ Media Automation (Arr-Stack):</h2>
+
 <h2>📋 Certifications:</h2>
 
 - <b> Comptia Net+ expected june
