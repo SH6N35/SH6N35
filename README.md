@@ -10,7 +10,7 @@
 
 <h2>📋 Certifications:</h2>
 
-- <b> Comptia A+ core 1 expected by October 2025
+- <b> Comptia Net+ expected june
 
 <h2> 🤳 Connect with me:</h2>
 
