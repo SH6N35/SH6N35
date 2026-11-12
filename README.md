@@ -14,10 +14,9 @@
 <h2>🖥 Homelab & Infrastructure:</h2>
 
 <ul>
-  <li><b><a href="https://github.com/SH6N35/infrastructure-manifest">Infrastructure</a></b> – Layer 1–3 documentation and network topology[cite: 9].</li>
-  <li><b><a href="https://github.com/SH6N35/Arrstack">Jellyfin & Media Stack</a></b> – Fully automated containerized media stack[cite: 9].</li>
-  <li><b><a href="https://github.com/SH6N35/Minecraft-server/tree/main">Self-hosting Minecraft</a></b> – Containerized server environment on Ubuntu[cite: 9].</li>
-</ul>
+  <li><b><a href="https://github.com/SH6N35/infrastructure-manifest">Infrastructure</a>
+  <li><b><a href="https://github.com/SH6N35/Arrstack">Jellyfin & Media Stack</a>
+  <li><b><a href="https://github.com/SH6N35/Minecraft-server/tree/main">Self-hosting Minecraft</a>
 
 <h2>📋 Certifications:</h2>
 
