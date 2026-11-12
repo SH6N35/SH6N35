@@ -1,29 +1,38 @@
 <h1>Hi, I'm Shane!</h1>
 
-<h2>👨‍💻 Active Directory Lab:</h2>
+<h2>👨‍💻 Enterprise ITSM & Directory Labs:</h2>
 
-- <b> [Active Directory HomeLab](https://github.com/SH6N35/ActiveDirectoryLab)
-- <b> [Group Policy Managment Lab](https://github.com/SH6N35/Creating-and-setting-up-GPo)
-- <b> [Testing GPO](https://github.com/SH6N35/Testing-GPO)
-- <b> [Mapping a Drive](https://github.com/SH6N35/fileServices-Mapping)
-- <b> [Mapping a drive using GPOs](https://github.com/SH6N35/GPO-Configuration)
+<ul>
+  <li><b><a href="https://github.com/SH6N35/GLPI-ITSM-Lab">GLPI Enterprise Service Desk</a>
+  <li><b><a href="https://github.com/SH6N35/ActiveDirectoryLab">Active Directory HomeLab</a>
+  <li><b><a href="https://github.com/SH6N35/Creating-and-setting-up-GPo">Group Policy Management Lab</a></b></li>
+  <li><b><a href="https://github.com/SH6N35/Testing-GPO">Testing GPO</a></b></li>
+  <li><b><a href="https://github.com/SH6N35/fileServices-Mapping">Mapping a Drive</a></b></li>
+  <li><b><a href="https://github.com/SH6N35/GPO-Configurations">Mapping a drive using GPOs</a></b></li>
+</ul>
 
-<h2>🖥 Homelab:</h2>
+<h2>🖥 Homelab & Infrastructure:</h2>
 
-- <b> [Infrastructure](https://github.com/SH6N35/infrastructure-manifest)
-- <b> [Jellyfin](https://github.com/SH6N35/Arrstack)
-- <b> [Self-hosting Minecraft](https://github.com/SH6N35/Minecraft-server/tree/main)
-  
+<ul>
+  <li><b><a href="https://github.com/SH6N35/infrastructure-manifest">Infrastructure</a></b> – Layer 1–3 documentation and network topology[cite: 9].</li>
+  <li><b><a href="https://github.com/SH6N35/Arrstack">Jellyfin & Media Stack</a></b> – Fully automated containerized media stack[cite: 9].</li>
+  <li><b><a href="https://github.com/SH6N35/Minecraft-server/tree/main">Self-hosting Minecraft</a></b> – Containerized server environment on Ubuntu[cite: 9].</li>
+</ul>
+
 <h2>📋 Certifications:</h2>
 
-- <b> CompTIA Network+ (in progress)
+<ul>
+  <li><b>CompTIA Network+</b> (In Progress)</li>
+</ul>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="ShaneGoodman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/shane-goodman-b97372290/
-
+<p>
+  <a href="https://www.linkedin.com/in/shane-goodman-b97372290/">
+    <img align="left" alt="Shane Goodman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+</p>
+<br>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
