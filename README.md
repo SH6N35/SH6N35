@@ -16,7 +16,7 @@
   
 <h2>📋 Certifications:</h2>
 
-- <b> CompTIA Network+ (Expected June 2026)
+- <b> CompTIA Network+ (in progress)
 
 <h2> 🤳 Connect with me:</h2>
 
