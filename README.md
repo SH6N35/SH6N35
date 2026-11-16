@@ -1,37 +1,34 @@
-<h1>Hi, I'm Shane!</h1>
+# Hi, I'm Shane! 👋
 
-<h2>👨‍💻 Enterprise ITSM & Directory Labs:</h2>
+### **IT Professional | Systems Administration, Networking & Technical Support**
+📍 Dallas, TX | [LinkedIn Profile](https://www.linkedin.com/in/shane-goodman-b97372290/) | ✉️ shanegoodman5835@gmail.com
 
-<ul>
-  <li><b><a href="https://github.com/SH6N35/GLPI-ITSM-Lab">GLPI Enterprise Service Desk</a>
-  <li><b><a href="https://github.com/SH6N35/ActiveDirectoryLab">Active Directory HomeLab</a>
-  <li><b><a href="https://github.com/SH6N35/Creating-and-setting-up-GPo">Group Policy Management Lab</a></b></li>
-  <li><b><a href="https://github.com/SH6N35/Testing-GPO">Testing GPO</a></b></li>
-  <li><b><a href="https://github.com/SH6N35/fileServices-Mapping">Mapping a Drive</a></b></li>
-  <li><b><a href="https://github.com/SH6N35/GPO-Configurations">Mapping a drive using GPOs</a></b></li>
-</ul>
+---
 
-<h2>🖥 Homelab & Infrastructure:</h2>
+## 🛠️ Featured Portfolio Repositories
 
-<ul>
-  <li><b><a href="https://github.com/SH6N35/infrastructure-manifest">Infrastructure</a>
-  <li><b><a href="https://github.com/SH6N35/Arrstack">Jellyfin & Media Stack</a>
-  <li><b><a href="https://github.com/SH6N35/Minecraft-server/tree/main">Self-hosting Minecraft</a>
+### 🏢 [Enterprise IT Homelab](https://github.com/SH6N35/Enterprise-IT-Homelab)
+*End-to-end documentation of enterprise infrastructure, directory services, and cloud identity management.*
+- **Active Directory & DNS/DHCP:** Windows Server domain promotion and core networking services.
+- **Group Policy Objects (GPOs):** Custom Organizational Unit (OU) structures and baseline security policies.
+- **Cloud Identity & Intune:** Microsoft Entra ID hybrid sync and MDM endpoint compliance management.
 
-<h2>📋 Certifications:</h2>
+### 🎧 [IT Support & Help Desk Scenarios](https://github.com/SH6N35/IT-Support-And-Help-Desk-Lab-Scenarios)
+*Practical documentation of day-to-day IT support workflows, ticketing systems, and endpoint troubleshooting.*
+- **Enterprise ITSM (GLPI):** Service desk deployment, LDAP user sync, and CMDB asset tracking.
+- **User Management:** Lifecycle handling (onboarding, offboarding, account lockouts, password resets).
+- **Endpoint Operations:** Network diagnostics, shared drive mapping, and file share permissions.
 
-<ul>
-  <li><b>CompTIA Network+</b> (In Progress)</li>
-</ul>
+---
 
-<h2>🤳 Connect with me:</h2>
+## 📜 Certifications & Core Stack
+- **CompTIA Network+** *(In Progress)*
+- **Stack:** Windows Server, Windows 11 Pro, Linux (KVM/Cockpit), Microsoft Entra ID, Intune, GLPI.
 
-<p>
-  <a href="https://www.linkedin.com/in/shane-goodman-b97372290/">
-    <img align="left" alt="Shane Goodman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-</p>
-<br>
+---
+
+## 🤳 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shane_Goodman-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shane-goodman-b97372290/)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
