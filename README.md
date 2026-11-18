@@ -11,7 +11,7 @@
 *End-to-end documentation of enterprise infrastructure, directory services, and cloud identity management.*
 - **[Active Directory & DNS/DHCP](https://github.com/SH6N35/AdDomainServices):** Windows Server domain promotion and core networking services.
 - **[Group Policy Objects (GPOs)](https://github.com/SH6N35/GPO-Management):** Custom Organizational Unit (OU) structures and baseline security policies.
-- **[Adding Device to the Domain](https://github.com/SH6N35/AddingDeviceToDomain):** Configure, secure, and join a virtualized Windows 11 client workstation.
+- **[Adding a Client to the Domain](https://github.com/SH6N35/AddingDeviceToDomain):** Configure, secure, and join a virtualized Windows 11 client workstation.
 - **[Cloud Identity & Intune](https://github.com/SH6N35/Cloud-Identity-Management):** Microsoft Entra ID hybrid sync and MDM endpoint compliance management.
 
 ### 🎧 [IT Support & Help Desk Scenarios](https://github.com/SH6N35/IT-Support-And-Help-Desk-Lab-Scenarios)
