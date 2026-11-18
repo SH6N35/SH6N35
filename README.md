@@ -7,11 +7,11 @@
 
 ## 🛠️ Featured Portfolio Repositories
 
-### 🏢 [Enterprise IT Homelab](https://github.com/SH6N35/Enterprise-IT-Homelab)
+### 🏢 Enterprise IT Homelab
 *End-to-end documentation of enterprise infrastructure, directory services, and cloud identity management.*
-- **Active Directory & DNS/DHCP:** Windows Server domain promotion and core networking services.
-- **Group Policy Objects (GPOs):** Custom Organizational Unit (OU) structures and baseline security policies.
-- **Cloud Identity & Intune:** Microsoft Entra ID hybrid sync and MDM endpoint compliance management.
+- **[Active Directory & DNS/DHCP](https://github.com/SH6N35/AdDomainServices):** Windows Server domain promotion and core networking services.
+- **[Group Policy Objects (GPOs)](https://github.com/SH6N35/GPO-Management):** Custom Organizational Unit (OU) structures and baseline security policies.
+- **[Cloud Identity & Intune](https://github.com/SH6N35/Cloud-Identity-Management):** Microsoft Entra ID hybrid sync and MDM endpoint compliance management.
 
 ### 🎧 [IT Support & Help Desk Scenarios](https://github.com/SH6N35/IT-Support-And-Help-Desk-Lab-Scenarios)
 *Practical documentation of day-to-day IT support workflows, ticketing systems, and endpoint troubleshooting.*
