@@ -14,11 +14,12 @@
 - **[Adding a Client to the Domain](https://github.com/SH6N35/AddingDeviceToDomain):** Configure, secure, and join a virtualized Windows 11 client workstation.
 - **[Cloud Identity & Intune](https://github.com/SH6N35/Cloud-Identity-Management):** Microsoft Entra ID hybrid sync and MDM endpoint compliance management.
 
-### 🎧 [IT Support & Help Desk Scenarios](https://github.com/SH6N35/IT-Support-And-Help-Desk-Lab-Scenarios)
-*Practical documentation of day-to-day IT support workflows, ticketing systems, and endpoint troubleshooting.*
-- **Enterprise ITSM (GLPI):** Service desk deployment, LDAP user sync, and CMDB asset tracking.
-- **User Management:** Lifecycle handling (onboarding, offboarding, account lockouts, password resets).
-- **Endpoint Operations:** Network diagnostics, shared drive mapping, and file share permissions.
+### 🎧 IT Support & Help Desk Scenarios
+*Practical examples of resolving common Tier 1/Tier 2 support tickets and endpoint requests.*
+- **Password Resets & Account Unlocks:** Verifying user identity, clearing active account lockouts, and resetting credentials in Active Directory / Microsoft Entra ID so users can sign back in quickly.
+- **User Onboarding & Access Requests:** Provisioning accounts, assigning group memberships, and applying standard permissions for new hires or role changes.
+- **Shared Drive & Permission Fixes:** Troubleshooting access-denied errors on network shares and verifying security group/NTFS permissions.
+- **Endpoint & Connectivity Troubleshooting:** Diagnosing workstation sign-in issues, VPN/network connectivity hiccups, and device sync problems.
 
 ---
 
