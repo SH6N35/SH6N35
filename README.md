@@ -16,7 +16,7 @@
 
 ### 🎧 IT Support & Help Desk Scenarios
 *Practical examples of resolving common Tier 1/Tier 2 support tickets and endpoint requests.*
-- **Password Resets & Account Unlocks:** Verifying user identity, clearing active account lockouts, and resetting credentials in Active Directory / Microsoft Entra ID so users can sign back in quickly.
+- **[Password Resets & Account Unlocks](https://github.com/SH6N35/Password-lockout-exercise):** Verifying user identity, clearing active account lockouts, and resetting credentials in Active Directory / Microsoft Entra ID so users can sign back in quickly.
 - **User Onboarding & Access Requests:** Provisioning accounts, assigning group memberships, and applying standard permissions for new hires or role changes.
 - **Shared Drive & Permission Fixes:** Troubleshooting access-denied errors on network shares and verifying security group/NTFS permissions.
 - **Endpoint & Connectivity Troubleshooting:** Diagnosing workstation sign-in issues, VPN/network connectivity hiccups, and device sync problems.
